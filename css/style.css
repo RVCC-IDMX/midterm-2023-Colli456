@@ -1,0 +1,27 @@
+body{
+    font-family: "Martel Sans";
+    background-color: #2C3BDE;
+
+}
+
+h1 h2 h3 h4 h5 h6 {
+    font-family: "Righteous";
+}
+
+header {
+    text-align: center;
+}
+
+header p {
+    font-size: large;
+}
+
+#Screen img {
+    max-width: 65%;
+    
+}
+
+#Screen figure{
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+}
