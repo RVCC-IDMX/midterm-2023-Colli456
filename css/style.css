@@ -1,6 +1,7 @@
 body{
     font-family: "Martel Sans";
-    background-color: #2C3BDE;
+    background-color: #11DEF5;
+    color: #071A61;
 
 }
 
@@ -13,8 +14,16 @@ header {
 }
 
 header p {
-    font-size: large;
+    
+        font-size: large;
+        width: 360px;
+        padding: 10px;
+        border: 5px solid purple;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;   
 }
+
 
 #Screen img {
     max-width: 65%;
