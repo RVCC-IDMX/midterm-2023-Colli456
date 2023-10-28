@@ -17,8 +17,8 @@ header p {
     
         font-size: large;
         width: 360px;
-        padding: 10px;
-        border: 5px solid purple;
+        padding: 20px;
+        border: 20px solid purple;
         margin-left: auto;
         margin-right: auto;
         text-align: center;   
@@ -33,4 +33,14 @@ header p {
 #Screen figure{
     display: grid;
     grid-template-columns: 2fr 2fr;
+}
+
+#PV1 { 
+    background-color: purple;
+    color: white;
+}
+
+#PV3 {
+    background-color: purple;
+    color: white;
 }
